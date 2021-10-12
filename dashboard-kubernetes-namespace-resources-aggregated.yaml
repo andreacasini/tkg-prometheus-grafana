@@ -4,6 +4,7 @@ metadata:
   name: dashboard-kubernetes-namespace-resources-aggregated
   labels:
     grafana_dashboard: "true"
+    grafana-dashboard: "true"
 data:
   dashboard-kubernetes-namespace-resources-aggregated.json: |-
     {

@@ -4,6 +4,7 @@ metadata:
   name: dashboard-kubernetes-cluster-detail-dashboard
   labels:
     grafana_dashboard: "true"
+    grafana-dashboard: "true"
 data:
   dashboard-kubernetes-cluster-detail-dashboard.json: |-
     {

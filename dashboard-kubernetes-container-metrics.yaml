@@ -4,6 +4,7 @@ metadata:
   name: dashboard-kubernetes-container-metrics
   labels:
     grafana_dashboard: "true"
+    grafana-dashboard: "true"
 data:
   dashboard-kubernetes-container-metrics.json: |-
     {

@@ -4,6 +4,7 @@ metadata:
   name: dashboard-node-exporter-health
   labels:
     grafana_dashboard: "true"
+    grafana-dashboard: "true"
 data:
   dashboard-node-exporter-health.json: |-
     {

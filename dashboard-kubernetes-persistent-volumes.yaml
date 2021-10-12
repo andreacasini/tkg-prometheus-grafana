@@ -4,6 +4,7 @@ metadata:
   name: dashboard-kubernetes-persistent-volumes
   labels:
     grafana_dashboard: "true"
+    grafana-dashboard: "true"
 data:
   dashboard-kubernetes-persistent-volumes.json: |-
     {
